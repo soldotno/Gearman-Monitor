@@ -20,6 +20,6 @@
 $i = 0;
 $cfgServers = array();
 
-$cfgServers[$i]['address'] = '';
-$cfgServers[$i]['name'] = '';
+$cfgServers[$i]['address'] = 'localhost:4730';
+$cfgServers[$i]['name'] = 'Gearman local';
 ++ $i;
